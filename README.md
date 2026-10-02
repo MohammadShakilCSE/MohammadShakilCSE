@@ -74,7 +74,7 @@ providers, insurance services, and other third-party platforms.
 
 ## 🚀 Featured Projects
 
-### Travel SaaS Platform
+### Travel Enterprise Platform
 
 A production-oriented travel platform built to explore scalable backend
 architecture.
