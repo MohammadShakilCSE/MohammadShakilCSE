@@ -44,7 +44,6 @@ My main focus is building scalable and maintainable backend systems using
 
 ### Messaging
 - RabbitMQ
-- Kafka — Learning
 
 ### Frontend
 - React
@@ -96,53 +95,6 @@ Features:
 - Background Jobs
 - Distributed Caching
 - Observability
-
----
-
-### FinCore
-
-Backend-focused financial system for learning advanced software architecture.
-
-Topics implemented:
-
-- Wallet Management
-- Ledger Transactions
-- CQRS
-- Domain Driven Design
-- Idempotency
-- Clean Architecture
-- Event-driven concepts
-
----
-
-### OmniReply
-
-Multi-tenant AI-powered messaging automation platform.
-
-Supports:
-
-- Facebook
-- WhatsApp
-- Telegram
-- AI generated responses
-- Product / price lookup
-- Multi-tenant SaaS architecture
-
-Built with **Go** as part of my backend and distributed systems learning.
-
----
-
-## 📚 Currently Learning
-
-- Advanced System Design
-- AWS Cloud Architecture
-- Distributed Systems
-- Kubernetes
-- OpenTelemetry
-- Event Driven Architecture
-- React
-
----
 
 ## 🎯 Career Focus
 
